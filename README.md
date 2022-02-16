@@ -1,6 +1,6 @@
 ## WORK IN PROGRESS 💪 ##
 
-## One of my dreams 💭 is to work in a company in the health sector 🏥 because it is my father's sector 🧑‍⚕️. So I started a project in the health sector.
+## One of my dreams 💭 is to work in a company in the health sector 🏥 because it's my father's sector 🧑‍⚕️. So I started a project in the health sector.
 
 ## Home Page 🏠
 
