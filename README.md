@@ -18,7 +18,7 @@
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 
 
-## Thanks to my friend Iyad Dali 🙏🇩🇿
+🙏🇩🇿 Thanks to my friend Iyad Dali 🇩🇿🙏
 
 I used the base of my friend who develops the dashboard (Design UI). Don't hesitate to check his Youtube channel and to support him 👉 AAA IdeaPro
 
