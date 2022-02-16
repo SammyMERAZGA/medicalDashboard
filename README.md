@@ -4,7 +4,7 @@
 
 ## Home Page 🏠
 
-![alt text](./src/assets/screens/HomePage.png)
+![alt text](./src/assets/Screens/HomePage.png)
 
 ## Technologies used 💻
 
