@@ -39,8 +39,8 @@
                       </v-list-item-title>
                       <v-list-item-subtitle>
                         Le prix du forfait comprend :<br />
-                        La consultation d'un
-                        pneumologue, spirographie et cardiogramme.
+                        La consultation d'un pneumologue, spirographie et
+                        cardiogramme.
                         <span class="teal--text"></span>
                       </v-list-item-subtitle>
                     </v-list-item-content>
@@ -194,7 +194,9 @@
                 <v-list two-line>
                   <v-list-item>
                     <v-list-item-avatar>
-                      <img src="https://media-exp1.licdn.com/dms/image/C5603AQGTPU2BF5Ktkg/profile-displayphoto-shrink_100_100/0/1619220866397?e=1644451200&v=beta&t=TCZ7QwWrFm-CR4u2wSQqAkiJzB4C_XjSvmJELmeDotw" />
+                      <img
+                        src="https://i.pinimg.com/originals/a0/ca/61/a0ca61b9b6f38005cd0424fe6cb20d24.jpg"
+                      />
                     </v-list-item-avatar>
                     <v-list-item-content>
                       <v-list-item-title>Sammy MERAZGA</v-list-item-title>
@@ -363,7 +365,8 @@
                       <v-list-item-title class="headline mb-1">
                         Paracétamol<br />
                         <h6>
-                          <span class="teal--text">1 à 4 comprimés</span> par jour (si douleur)
+                          <span class="teal--text">1 à 4 comprimés</span> par
+                          jour (si douleur)
                         </h6>
                       </v-list-item-title>
                     </v-list-item-content>
